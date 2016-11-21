@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_1 TIL and counting&hellip;_
+_2 TILs and counting&hellip;_
 
 ---
 
@@ -15,6 +15,7 @@ _1 TIL and counting&hellip;_
 ### Bash
 
 - [Wget Download and Append](bash/wget-download-and-append.md)
+- [Print Latest File Containing String](/bash/less-and-grep.md)
 
 ## About
 
