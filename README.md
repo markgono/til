@@ -4,18 +4,23 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_2 TILs and counting&hellip;_
+_3 TILs and counting&hellip;_
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [iTerm](#iterm)
 
 ### Bash
 
 - [Wget Download and Append](bash/wget-download-and-append.md)
 - [Print Latest File Containing String](/bash/less-and-grep.md)
+
+### iTerm
+
+- [iTerm Instant Replay](iterm/instant-replay.md)
 
 ## About
 
