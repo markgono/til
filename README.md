@@ -12,6 +12,7 @@ _3 TILs and counting&hellip;_
 
 * [Bash](#bash)
 * [iTerm](#iterm)
+* [JavaScript](#javascript)
 
 ### Bash
 
@@ -21,6 +22,10 @@ _3 TILs and counting&hellip;_
 ### iTerm
 
 - [iTerm Instant Replay](iterm/instant-replay.md)
+
+### JavaScript
+
+- [Updating Node with NVM](javascript/nvm-update.md)
 
 ## About
 
