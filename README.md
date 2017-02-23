@@ -4,13 +4,14 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_6 TILs and counting&hellip;_
+_7 TILs and counting&hellip;_
 
 ---
 
 ### Categories
 
 * [Bash](#bash)
+* [Docker](#docker)
 * [Git](#git)
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
@@ -20,6 +21,10 @@ _6 TILs and counting&hellip;_
 - [Wget Download and Append](bash/wget-download-and-append.md)
 - [Print Latest File Containing String](bash/less-and-grep.md)
 - [Bash Bang Commands](bash/bash-bang.md)
+
+### Docker
+
+- [Stop & Remove All Containers](docker/stop-remove-containers.md)
 
 ### Git
 
