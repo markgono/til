@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_7 TILs and counting&hellip;_
+_8 TILs and counting&hellip;_
 
 ---
 
@@ -25,6 +25,7 @@ _7 TILs and counting&hellip;_
 ### Docker
 
 - [Stop & Remove All Containers](docker/stop-remove-all-containers.md)
+- [Get A Container's IP Address](docker/get-ip.md)
 
 ### Git
 
