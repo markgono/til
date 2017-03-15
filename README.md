@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_8 TILs and counting&hellip;_
+_9 TILs and counting&hellip;_
 
 ---
 
@@ -21,6 +21,7 @@ _8 TILs and counting&hellip;_
 - [Wget Download and Append](bash/wget-download-and-append.md)
 - [Print Latest File Containing String](bash/less-and-grep.md)
 - [Bash Bang Commands](bash/bash-bang.md)
+- [Brace Expansion](bash/brace-expansion.md)
 
 ### Docker
 
