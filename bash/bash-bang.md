@@ -22,5 +22,7 @@ Here's a list of some common bang commands:
 
 ([via this StackOverflow answer](http://stackoverflow.com/questions/6109225/bash-echoing-the-last-command-run/9502698#9502698))
 
-## Use Case
+## Use Cases
 Re-running with elevated access - `sudo !!` 😎
+
+Create and change into directory - `mkdir directory && cd $_`
