@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_9 TILs and counting&hellip;_
+_10 TILs and counting&hellip;_
 
 ---
 
@@ -15,6 +15,7 @@ _9 TILs and counting&hellip;_
 * [Git](#git)
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
+* [Ruby](#ruby)
 
 ### Bash
 
@@ -39,6 +40,10 @@ _9 TILs and counting&hellip;_
 ### JavaScript
 
 - [Updating Node with NVM](javascript/nvm-update.md)
+
+### Ruby
+
+- [Generate GUIDs](ruby/generate-guids.md)
 
 ## About
 
