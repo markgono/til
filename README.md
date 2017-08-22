@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_10 TILs and counting&hellip;_
+_11 TILs and counting&hellip;_
 
 ---
 
@@ -23,6 +23,7 @@ _10 TILs and counting&hellip;_
 - [Print Latest File Containing String](bash/less-and-grep.md)
 - [Bash Bang Commands](bash/bash-bang.md)
 - [Brace Expansion](bash/brace-expansion.md)
+- [ID](bash/id.md)
 
 ### Docker
 
