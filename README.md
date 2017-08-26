@@ -17,14 +17,12 @@ _12 TILs and counting&hellip;_
 * [JavaScript](#javascript)
 * [Ruby](#ruby)
 * [PHP](#php)
+* [Unix](#unix)
 
 ### Bash
 
-- [Wget Download and Append](bash/wget-download-and-append.md)
-- [Print Latest File Containing String](bash/less-and-grep.md)
 - [Bash Bang Commands](bash/bash-bang.md)
 - [Brace Expansion](bash/brace-expansion.md)
-- [ID](bash/id.md)
 
 ### Docker
 
@@ -50,6 +48,12 @@ _12 TILs and counting&hellip;_
 ### Ruby
 
 - [Generate GUIDs](ruby/generate-guids.md)
+
+### Unix
+
+- [Print Latest File Containing String](unix/less-and-grep.md)
+- [ID](unix/id.md)
+- [Wget Download and Append](unix/wget-download-and-append.md)
 
 ## About
 
