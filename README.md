@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_13 TILs and counting&hellip;_
+_14 TILs and counting&hellip;_
 
 ---
 
@@ -51,6 +51,7 @@ _13 TILs and counting&hellip;_
 
 ### Unix
 
+- [Find](unix/find.md)
 - [Less Follow](unix/less-follow.md)
 - [Print Latest File Containing String](unix/less-and-grep.md)
 - [ID](unix/id.md)
