@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_17 TILs and counting&hellip;_
+_18 TILs and counting&hellip;_
 
 ---
 
@@ -32,6 +32,7 @@ _17 TILs and counting&hellip;_
 ### Git
 
 - [Git Check Ignore](git/check-ignore.md)
+- [Git Cherry-Pick](git/cherry-pick.md)
 - [Git Recover Dropped Stash](git/recover-dropped-stash.md)
 
 ### iTerm
