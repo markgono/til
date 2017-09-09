@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_18 TILs and counting&hellip;_
+_19 TILs and counting&hellip;_
 
 ---
 
@@ -60,6 +60,7 @@ _18 TILs and counting&hellip;_
 - [Wget Download and Append](unix/wget-download-and-append.md)
 - [PBCopy](unix/pbcopy.md)
 - [PS](unix/ps.md)
+- [LSOF](unix/lsof.md)
 
 ## About
 
