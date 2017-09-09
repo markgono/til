@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_19 TILs and counting&hellip;_
+_20 TILs and counting&hellip;_
 
 ---
 
@@ -15,6 +15,7 @@ _19 TILs and counting&hellip;_
 * [Git](#git)
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
+* [macOS](#mac)
 * [Ruby](#ruby)
 * [PHP](#php)
 * [Unix](#unix)
@@ -42,6 +43,10 @@ _19 TILs and counting&hellip;_
 ### JavaScript
 
 - [Updating Node with NVM](javascript/nvm-update.md)
+
+### MacOS
+
+- [HTML Entities for macOS Keys](mac/html-entities.md)
 
 ### PHP
 
