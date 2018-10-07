@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_21 TILs and counting&hellip;_
+_22 TILs and counting&hellip;_
 
 ---
 
@@ -60,6 +60,7 @@ _21 TILs and counting&hellip;_
 ### SSH
 
 - [SSH Agent](ssh/agent.md)
+- [SSH Config](ssh/config.md)
 
 ### Unix
 
