@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_20 TILs and counting&hellip;_
+_21 TILs and counting&hellip;_
 
 ---
 
@@ -16,8 +16,9 @@ _20 TILs and counting&hellip;_
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
 * [macOS](#mac)
-* [Ruby](#ruby)
 * [PHP](#php)
+* [Ruby](#ruby)
+* [SSH](#ssh)
 * [Unix](#unix)
 
 ### Bash
@@ -55,6 +56,10 @@ _20 TILs and counting&hellip;_
 ### Ruby
 
 - [Generate GUIDs](ruby/generate-guids.md)
+
+### SSH
+
+- [SSH Agent](ssh/agent.md)
 
 ### Unix
 
