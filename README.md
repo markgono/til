@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_25 TILs and counting&hellip;_
+_26 TILs and counting&hellip;_
 
 ---
 
@@ -21,6 +21,7 @@ _25 TILs and counting&hellip;_
 * [Ruby](#ruby)
 * [SSH](#ssh)
 * [Unix](#unix)
+* [Vim](#vim)
 
 ### Bash
 
@@ -79,6 +80,10 @@ _25 TILs and counting&hellip;_
 - [PBCopy](unix/pbcopy.md)
 - [PS](unix/ps.md)
 - [LSOF](unix/lsof.md)
+
+### Vim
+
+- [Page Up/Down](vim/paging.md)
 
 ## About
 
