@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_23 TILs and counting&hellip;_
+_24 TILs and counting&hellip;_
 
 ---
 
@@ -25,6 +25,7 @@ _23 TILs and counting&hellip;_
 
 - [Bash Bang Commands](bash/bash-bang.md)
 - [Brace Expansion](bash/brace-expansion.md)
+- [Looping](bash/looping.md)
 
 ### Docker
 
