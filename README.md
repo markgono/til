@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_22 TILs and counting&hellip;_
+_23 TILs and counting&hellip;_
 
 ---
 
@@ -33,6 +33,7 @@ _22 TILs and counting&hellip;_
 
 ### Git
 
+- [Allow Empty Git Commit](git/allow-empty.md)
 - [Git Check Ignore](git/check-ignore.md)
 - [Git Cherry-Pick](git/cherry-pick.md)
 - [Git Recover Dropped Stash](git/recover-dropped-stash.md)
