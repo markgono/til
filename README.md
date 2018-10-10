@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_26 TILs and counting&hellip;_
+_27 TILs and counting&hellip;_
 
 ---
 
@@ -53,9 +53,10 @@ _26 TILs and counting&hellip;_
 
 - [Updating Node with NVM](javascript/nvm-update.md)
 
-### MacOS
+### macOS
 
 - [HTML Entities for macOS Keys](mac/html-entities.md)
+- [Emoji Keyboard](mac/emoji-keyboard.md)
 
 ### PHP
 
