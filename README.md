@@ -8,7 +8,7 @@ _27 TILs and counting&hellip;_
 
 ---
 
-### Categories
+## Categories
 
 * [Bash](#bash)
 * [CSS](#css)
@@ -22,6 +22,8 @@ _27 TILs and counting&hellip;_
 * [SSH](#ssh)
 * [Unix](#unix)
 * [Vim](#vim)
+
+---
 
 ### Bash
 
@@ -85,6 +87,8 @@ _27 TILs and counting&hellip;_
 ### Vim
 
 - [Page Up/Down](vim/paging.md)
+
+---
 
 ## About
 
