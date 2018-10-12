@@ -4,12 +4,13 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_27 TILs and counting&hellip;_
+_28 TILs and counting&hellip;_
 
 ---
 
 ## Categories
 
+* [Alfred](#alfred)
 * [Bash](#bash)
 * [CSS](#css)
 * [Docker](#docker)
@@ -24,6 +25,10 @@ _27 TILs and counting&hellip;_
 * [Vim](#vim)
 
 ---
+
+### Alfred
+
+- [Large Type](alfred/large-type.md)
 
 ### Bash
 
