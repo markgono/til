@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_28 TILs and counting&hellip;_
+_29 TILs and counting&hellip;_
 
 ---
 
@@ -23,6 +23,7 @@ _28 TILs and counting&hellip;_
 * [SSH](#ssh)
 * [Unix](#unix)
 * [Vim](#vim)
+* [VSCode](#vscode)
 
 ---
 
@@ -92,6 +93,10 @@ _28 TILs and counting&hellip;_
 ### Vim
 
 - [Page Up/Down](vim/paging.md)
+
+### VSCode
+
+- [Shortcuts](vscode/shortcuts.md)
 
 ---
 
