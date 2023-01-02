@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_29 TILs and counting&hellip;_
+_30 TILs and counting&hellip;_
 
 ---
 
@@ -12,6 +12,7 @@ _29 TILs and counting&hellip;_
 
 * [Alfred](#alfred)
 * [Bash](#bash)
+* [Chrome](#chrome)
 * [CSS](#css)
 * [Docker](#docker)
 * [Git](#git)
@@ -36,6 +37,10 @@ _29 TILs and counting&hellip;_
 - [Bash Bang Commands](bash/bash-bang.md)
 - [Brace Expansion](bash/brace-expansion.md)
 - [Looping](bash/looping.md)
+
+### Chrome
+
+- [Search Engines](chrome/search-engines.md)
 
 ### CSS
 
