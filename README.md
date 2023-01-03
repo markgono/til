@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_30 TILs and counting&hellip;_
+_31 TILs and counting&hellip;_
 
 ---
 
@@ -94,6 +94,7 @@ _30 TILs and counting&hellip;_
 - [PBCopy](unix/pbcopy.md)
 - [PS](unix/ps.md)
 - [LSOF](unix/lsof.md)
+- [Rename](unix/rename.md)
 
 ### Vim
 
