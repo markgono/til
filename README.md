@@ -4,7 +4,7 @@
 
 A collection of write-ups on things I learn day-to-day across a range of languages and technologies.
 
-_31 TILs and counting&hellip;_
+_32 TILs and counting&hellip;_
 
 ---
 
@@ -18,7 +18,7 @@ _31 TILs and counting&hellip;_
 * [Git](#git)
 * [iTerm](#iterm)
 * [JavaScript](#javascript)
-* [macOS](#mac)
+* [macOS](#macos)
 * [PHP](#php)
 * [Ruby](#ruby)
 * [SSH](#ssh)
@@ -68,6 +68,7 @@ _31 TILs and counting&hellip;_
 
 ### macOS
 
+- [Caffeinate](mac/caffeinate.md)
 - [HTML Entities for macOS Keys](mac/html-entities.md)
 - [Emoji Keyboard](mac/emoji-keyboard.md)
 
