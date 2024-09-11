@@ -2,7 +2,9 @@
 
 The SQL coalesce operator can groom null values into a valid operand for a condition. 
 
-Useful for where you want to include these rows in the output
+> Useful for where you want to include these rows in the output
+
+# Usage
 
 ```sql
 SELECT name FROM Customer WHERE COALESCE(refferer,0) != 2
